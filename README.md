@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Developer | React Developer | React Native Developer | Mobil Developer </h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" alt="coding" width="320"](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg2cnRrM3Z2ZzVpazF1bzZ4Z2FpZ3poejlnMmswc3NidGV1ZWwyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)/>
+  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" width="400" />
 </p>
+
 
 <p align="center">
   Web teknolojilerine olan tutkum beni buraya getirdi. Bu alanda kendimi geliştirmek için büyük bir heyecanla çalışmaya devam ediyorum.
