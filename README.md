@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React Developer | React Native Developer | Mobil Developer </h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" width="650" height="300" />
+  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" width="650" height="200" />
 </p>
 
 
